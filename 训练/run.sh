@@ -1,0 +1,16 @@
+python read.py
+python read_other.py
+python edit_distance.py
+python main1.py
+python main2.py
+python main3.py
+python main4.py
+python main5.py
+python prediction.py
+python train_other.py
+python prediction_train.py
+python main6.py
+python main7.py
+python main8.py
+python testA.py
+python train_testA.py
